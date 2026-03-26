@@ -1,0 +1,92 @@
+[
+  {
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 95,
+    "batingStyle": "Right-hand bat",
+    "blowingStyle": "Right-arm medium",
+    "rate": 1000000,
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDN_x3qsMAqlbRhBpGwv44hqQphdGCvCQkGD4hTuAww4EhMOVJyT2l55-hj2WMNBfit5ExLhwCdozA9eD-Ae2yCsqtFAoTvzu23yt80uCWrQ&s=10"
+  },
+  {
+    "playerName": "Mitchell Starc",
+    "playerCountry": "Australia",
+    "playerType": "Bowler",
+    "rating": 92,
+    "batingStyle": "Left-hand bat",
+    "blowingStyle": "Left-arm fast",
+    "rate": 850000,
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ0h5RZfZz5Eof8XQ8y9uufyfHYNOTeYQMwIjw1W9xwVC76KAolClLCBOvkd7bJB7yN932-xG-AjELQn-C5uhouY2XfbxdFe5qSQqoSDU7Fw&s=10"
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerCountry": "England",
+    "playerType": "All-rounder",
+    "rating": 90,
+    "batingStyle": "Left-hand bat",
+    "blowingStyle": "Right-arm fast-medium",
+    "rate": 950000,
+    "playerImg": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcT00paVgX25gT0j0b5Gx717Rn22seSokrxgPl9_byF0ftJT09oXJxJ-YuBZ-LU2ZOBaRqRn6QNZFvgJp9c6BXBcB5eeu1WUn6dQuoyIMUrCciJKKYN8HONREIqVY6vgjzqv3Xc_lTPMtr2W&s=19"
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 93,
+    "batingStyle": "Right-hand bat",
+    "blowingStyle": "Right-arm offbreak",
+    "rate": 880000,
+    "playerImg": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRlgOOcgEEvEu9wEB2Suos39q_oQ3hllEjyA0nuhl9vE_Hag_kkHJGVgMvCvTaU3kYCjYV1mX4SFd_LzXCgD-QxpoVWeYnfekf-SYrSglaW0oAzQhNAC5oaOAZYRMaaB6VJ3R8r4m7t4NI&s=19"
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "playerType": "Batsman",
+    "rating": 91,
+    "batingStyle": "Right-hand bat",
+    "blowingStyle": "Right-arm offbreak",
+    "rate": 870000,
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDN_x3qsMAqlbRhBpGwv44hqQphdGCvCQkGD4hTuAww4EhMOVJyT2l55-hj2WMNBfit5ExLhwCdozA9eD-Ae2yCsqtFAoTvzu23yt80uCWrQ&s=10"
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playerType": "Bowler",
+    "rating": 89,
+    "batingStyle": "Right-hand bat",
+    "blowingStyle": "Right-arm legbreak googly",
+    "rate": 820000,
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDN_x3qsMAqlbRhBpGwv44hqQphdGCvCQkGD4hTuAww4EhMOVJyT2l55-hj2WMNBfit5ExLhwCdozA9eD-Ae2yCsqtFAoTvzu23yt80uCWrQ&s=10"
+  },
+  {
+    "playerName": "David Warner",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "rating": 88,
+    "batingStyle": "Left-hand bat",
+    "blowingStyle": "Right-arm legbreak",
+    "rate": 810000,
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDN_x3qsMAqlbRhBpGwv44hqQphdGCvCQkGD4hTuAww4EhMOVJyT2l55-hj2WMNBfit5ExLhwCdozA9eD-Ae2yCsqtFAoTvzu23yt80uCWrQ&s=10"
+  },
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-rounder",
+    "rating": 87,
+    "batingStyle": "Left-hand bat",
+    "blowingStyle": "Left-arm orthodox",
+    "rate": 800000,
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDN_x3qsMAqlbRhBpGwv44hqQphdGCvCQkGD4hTuAww4EhMOVJyT2l55-hj2WMNBfit5ExLhwCdozA9eD-Ae2yCsqtFAoTvzu23yt80uCWrQ&s=10"
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "playerType": "Bowler",
+    "rating": 94,
+    "batingStyle": "Right-hand bat",
+    "blowingStyle": "Right-arm fast",
+    "rate": 970000,
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDN_x3qsMAqlbRhBpGwv44hqQphdGCvCQkGD4hTuAww4EhMOVJyT2l55-hj2WMNBfit5ExLhwCdozA9eD-Ae2yCsqtFAoTvzu23yt80uCWrQ&s=10"
+  }
+]
